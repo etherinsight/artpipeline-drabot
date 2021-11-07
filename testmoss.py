@@ -1,4 +1,4 @@
-```python
+
 
 import drawBot
 import random 
@@ -48,6 +48,6 @@ im.colorPosterize(levels=9)
 
 drawBot.image(im, (-90, -90))
 drawBot.saveImage("~/Downloads/aRect.png")
-```
+
 
 
