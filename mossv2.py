@@ -10,6 +10,8 @@ global range_to_use
 import random 
 
 def generate_image():
+    drawBot.newDrawing()
+    im = drawBot.ImageObject()
 
     with im: 
         
